@@ -24,6 +24,7 @@ import com.opensymphony.xwork2.ActionContext;
 import com.opensymphony.xwork2.ActionSupport;
 
 public class ControlAction extends ActionSupport{
+
 	private int rows;
 	private int page;
 	public int getRows() {
