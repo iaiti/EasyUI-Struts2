@@ -37,6 +37,7 @@ public class ControlAction extends ActionSupport{
 		String result="";
 		result= PageUtil.getPage(page, rows);
 		try {
+			//test2
 			//Test
 //			ServletActionContext.getResponse().getWriter().println(JSONArray.fromObject(list));
 			ctx.put("json", result);
