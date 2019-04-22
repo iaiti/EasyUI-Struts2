@@ -10,7 +10,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-
+//测试2
 public class ConnectToSQL {
 	public static Connection getConn(){
 		Connection con = null;
