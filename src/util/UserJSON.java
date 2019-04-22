@@ -15,7 +15,8 @@ import net.sf.json.JSONObject;
  * @author ckc
  *2014-11-13 10:17:01
  *不需要 一个单独的类来传json  只需要一个json类 将rows和total属性put进去即可
- */ 
+ */
+//base分支提交
 public class UserJSON {
 	int total;
 		List<User> list;
