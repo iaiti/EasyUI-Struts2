@@ -20,7 +20,7 @@ public class UserJSON {
 	int total;
 		List<User> list;
 	public static void main(String[] args) {
-		
+		//变基测试
 		String s = "";
 		int count = 0;
 		int number = 0;
