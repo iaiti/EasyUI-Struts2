@@ -21,7 +21,7 @@ public class UserJSON {
 		List<User> list;
 		//变基测试2
 	public static void main(String[] args) {
-
+		//变基测试
 		String s = "";
 		int count = 0;
 		int number = 0;
