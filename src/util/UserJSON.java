@@ -19,8 +19,9 @@ import net.sf.json.JSONObject;
 public class UserJSON {
 	int total;
 		List<User> list;
+		//变基测试2
 	public static void main(String[] args) {
-		
+
 		String s = "";
 		int count = 0;
 		int number = 0;
